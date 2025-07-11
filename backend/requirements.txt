@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+pydantic
+numpy
+pandas
+matplotlib
+tensorflow
+scikit-learn
+yfinance
+sqlalchemy

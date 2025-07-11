@@ -1,0 +1,14 @@
+Stock Price Prediction Model Training Report
+==================================================
+Training Date: 2025-07-10 23:17:00
+Sequence Length: 60
+Future Days: 30
+
+Successful Trainings:
+--------------------
+✅ INFY
+✅ TCS
+✅ RELIANCE
+
+Failed Trainings:
+---------------
